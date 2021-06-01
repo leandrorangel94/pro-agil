@@ -27,7 +27,7 @@ namespace ProAgil.API.Controllers
             try
             {
                 var results = await _context.Eventos.ToListAsync();
-                return Ok();
+                return Ok(results);
             }
             catch (System.Exception)
             {
