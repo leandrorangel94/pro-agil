@@ -11,7 +11,9 @@
 
 Projeto desenvolvido no curso "Seja Fullstack com Asp.NET Core, Angular + EF Core" do Vinicius Andrade realizado na Udemy.
 
-![ProAgil](https://user-images.githubusercontent.com/39461509/120944076-fccea900-c708-11eb-8db1-0a1d791997fb.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/39461509/120944076-fccea900-c708-11eb-8db1-0a1d791997fb.png">
+</p>
 
 ## Tecnologias :rocket:
 
