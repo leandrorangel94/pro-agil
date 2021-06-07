@@ -21,7 +21,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [.NET Core](https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-5.0)
 - [Angular](https://angular.io/)
-- [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/documentation)
+- [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/)
 
 ## Sobre :memo:
 
