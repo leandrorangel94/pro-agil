@@ -13,9 +13,9 @@ namespace ProAgil.API.Dtos
         public string DataEvento { get; set; }
 
         [Required(ErrorMessage = "O Tema deve ser preenchido.")]
+        public string Tema { get; set; }
 
         [Range(1, 120000, ErrorMessage = "A quantidade deve ser entre 1 a 120 mil pessoas.")]
-        public string Tema { get; set; }
         public int QtdPessoas { get; set; }
         public string ImageURL { get; set; }
 
